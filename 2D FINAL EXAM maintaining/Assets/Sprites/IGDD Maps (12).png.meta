@@ -1,0 +1,2041 @@
+fileFormatVersion: 2
+guid: b0793f1f30adfab4fa5c4779097735f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4096910240634753060
+    second: IGDD Maps (12)_0
+  - first:
+      213: -1193060878931842454
+    second: IGDD Maps (12)_1
+  - first:
+      213: 6407342701062599338
+    second: IGDD Maps (12)_2
+  - first:
+      213: 6528986971054618971
+    second: IGDD Maps (12)_3
+  - first:
+      213: 9007685560595345004
+    second: IGDD Maps (12)_4
+  - first:
+      213: -6196721558410135544
+    second: IGDD Maps (12)_5
+  - first:
+      213: -505867343083467398
+    second: IGDD Maps (12)_6
+  - first:
+      213: 6599633523201532866
+    second: IGDD Maps (12)_7
+  - first:
+      213: -7417914524156065846
+    second: IGDD Maps (12)_8
+  - first:
+      213: -6316809100568155290
+    second: IGDD Maps (12)_9
+  - first:
+      213: -6230270001774582662
+    second: IGDD Maps (12)_10
+  - first:
+      213: -6067949430925621039
+    second: IGDD Maps (12)_11
+  - first:
+      213: -3997840245750569558
+    second: IGDD Maps (12)_12
+  - first:
+      213: 5998479587789048238
+    second: IGDD Maps (12)_13
+  - first:
+      213: 3032862514883850472
+    second: IGDD Maps (12)_14
+  - first:
+      213: -720516568326728813
+    second: IGDD Maps (12)_15
+  - first:
+      213: 836928350707218869
+    second: IGDD Maps (12)_16
+  - first:
+      213: -853372103111344080
+    second: IGDD Maps (12)_17
+  - first:
+      213: 1754983309342141105
+    second: IGDD Maps (12)_18
+  - first:
+      213: 8685204556126235449
+    second: IGDD Maps (12)_19
+  - first:
+      213: 7614060517344451077
+    second: IGDD Maps (12)_20
+  - first:
+      213: 2493534585611281822
+    second: IGDD Maps (12)_21
+  - first:
+      213: 6886421054327679471
+    second: IGDD Maps (12)_22
+  - first:
+      213: 7777614624050362770
+    second: IGDD Maps (12)_23
+  - first:
+      213: -1885349742478033531
+    second: IGDD Maps (12)_24
+  - first:
+      213: 6950786379668887459
+    second: IGDD Maps (12)_25
+  - first:
+      213: 8548248593978535006
+    second: IGDD Maps (12)_26
+  - first:
+      213: -9111818060317953851
+    second: IGDD Maps (12)_27
+  - first:
+      213: 4098027096147363715
+    second: IGDD Maps (12)_28
+  - first:
+      213: -7772775799077928905
+    second: IGDD Maps (12)_29
+  - first:
+      213: 115028627779590319
+    second: IGDD Maps (12)_30
+  - first:
+      213: -7525796109312926989
+    second: IGDD Maps (12)_31
+  - first:
+      213: -876710243750033458
+    second: IGDD Maps (12)_32
+  - first:
+      213: 4595647281749098206
+    second: IGDD Maps (12)_33
+  - first:
+      213: 3754985489011317218
+    second: IGDD Maps (12)_34
+  - first:
+      213: -8286952981375043412
+    second: IGDD Maps (12)_35
+  - first:
+      213: 5660840173420019296
+    second: IGDD Maps (12)_36
+  - first:
+      213: -8381903125963008210
+    second: IGDD Maps (12)_37
+  - first:
+      213: 6675519772950344409
+    second: IGDD Maps (12)_38
+  - first:
+      213: 3216716632770272292
+    second: IGDD Maps (12)_39
+  - first:
+      213: 7772692105120739351
+    second: IGDD Maps (12)_40
+  - first:
+      213: -4196187212414887857
+    second: IGDD Maps (12)_41
+  - first:
+      213: -1250845938428378472
+    second: IGDD Maps (12)_42
+  - first:
+      213: 2383675846999550110
+    second: IGDD Maps (12)_43
+  - first:
+      213: 7653078913252035237
+    second: IGDD Maps (12)_44
+  - first:
+      213: -4623983481295089405
+    second: IGDD Maps (12)_45
+  - first:
+      213: -3047240390792984385
+    second: IGDD Maps (12)_46
+  - first:
+      213: 7152312639542753029
+    second: IGDD Maps (12)_47
+  - first:
+      213: -1479929213916660005
+    second: IGDD Maps (12)_48
+  - first:
+      213: 8489840087921945492
+    second: IGDD Maps (12)_49
+  - first:
+      213: -591598067789196590
+    second: IGDD Maps (12)_50
+  - first:
+      213: -6451754819400337031
+    second: IGDD Maps (12)_51
+  - first:
+      213: 5818980249925662675
+    second: IGDD Maps (12)_52
+  - first:
+      213: -8850852519462036650
+    second: IGDD Maps (12)_53
+  - first:
+      213: -5017902760818583522
+    second: IGDD Maps (12)_54
+  - first:
+      213: 3302279636282452874
+    second: IGDD Maps (12)_55
+  - first:
+      213: -2551462420963203782
+    second: IGDD Maps (12)_56
+  - first:
+      213: -5178483365620131836
+    second: IGDD Maps (12)_57
+  - first:
+      213: 7536757559965755878
+    second: IGDD Maps (12)_58
+  - first:
+      213: -9182004459678404561
+    second: IGDD Maps (12)_59
+  - first:
+      213: -5463715611832881873
+    second: IGDD Maps (12)_60
+  - first:
+      213: 6299625740133895526
+    second: IGDD Maps (12)_61
+  - first:
+      213: -5907947449197470312
+    second: IGDD Maps (12)_62
+  - first:
+      213: 8538327735808029243
+    second: IGDD Maps (12)_63
+  - first:
+      213: -6607547971087931249
+    second: IGDD Maps (12)_64
+  - first:
+      213: -2956375991424755946
+    second: IGDD Maps (12)_65
+  - first:
+      213: -7076013074512235516
+    second: IGDD Maps (12)_66
+  - first:
+      213: -4091863193073692101
+    second: IGDD Maps (12)_67
+  - first:
+      213: -1509393324829043161
+    second: IGDD Maps (12)_68
+  - first:
+      213: -753952146186111034
+    second: IGDD Maps (12)_69
+  - first:
+      213: -6221461282421970240
+    second: IGDD Maps (12)_70
+  - first:
+      213: -6531983684962929785
+    second: IGDD Maps (12)_71
+  - first:
+      213: 5299016965421921751
+    second: IGDD Maps (12)_72
+  - first:
+      213: -3401763387754691462
+    second: IGDD Maps (12)_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IGDD Maps (12)_0
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420d1b158262bd830800000000000000
+      internalID: 4096910240634753060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_1
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 846
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a2ad3a375617fe0800000000000000
+      internalID: -1193060878931842454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa237033d347be850800000000000000
+      internalID: 6407342701062599338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_3
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593dd0ee0f9b9a50800000000000000
+      internalID: 6528986971054618971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 846
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e63b7ea4ab10d70800000000000000
+      internalID: 9007685560595345004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_5
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80875f20392d00aa0800000000000000
+      internalID: -6196721558410135544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_6
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d0a08e45ccaf8f0800000000000000
+      internalID: -505867343083467398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ef2619bb969b50800000000000000
+      internalID: 6599633523201532866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac78775ca064e0990800000000000000
+      internalID: -7417914524156065846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_9
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b2ea6479f2658a0800000000000000
+      internalID: -6316809100568155290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_10
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7424795172a989a0800000000000000
+      internalID: -6230270001774582662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_11
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 846
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d805a654205acba0800000000000000
+      internalID: -6067949430925621039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_12
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5e64b5a71d488c0800000000000000
+      internalID: -3997840245750569558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_13
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 846
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9099e5761ee3350800000000000000
+      internalID: 5998479587789048238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_14
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 846
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0ff347364e61a20800000000000000
+      internalID: 3032862514883850472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 546
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3931a12aff53006f0800000000000000
+      internalID: -720516568326728813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 546
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b97b5696ed5d9b00800000000000000
+      internalID: 836928350707218869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03002d4f7963824f0800000000000000
+      internalID: -853372103111344080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae3148504fa5810800000000000000
+      internalID: 1754983309342141105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 546
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b2281178b088870800000000000000
+      internalID: 8685204556126235449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_20
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 579
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a94a213b39aa960800000000000000
+      internalID: 7614060517344451077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 546
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95e28a8e70da9220800000000000000
+      internalID: 2493534585611281822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 541
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9e8fc867b719f50800000000000000
+      internalID: 6886421054327679471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 546
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b7620b43afeb60800000000000000
+      internalID: 7777614624050362770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_24
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 579
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58df832f564e5d5e0800000000000000
+      internalID: -1885349742478033531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_25
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a799cda267267060800000000000000
+      internalID: 6950786379668887459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_26
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca2df3eca71a670800000000000000
+      internalID: 8548248593978535006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_27
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c072c820c15c8180800000000000000
+      internalID: -9111818060317953851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_28
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 546
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870ac18eed1fd830800000000000000
+      internalID: 4098027096147363715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_29
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7300539b79d812490800000000000000
+      internalID: -7772775799077928905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_30
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 546
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa89dc17de9a89100800000000000000
+      internalID: 115028627779590319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_31
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fad26cdf400f8790800000000000000
+      internalID: -7525796109312926989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_32
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec74556adac45d3f0800000000000000
+      internalID: -876710243750033458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_33
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 568
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edef4ad9ad407cf30800000000000000
+      internalID: 4595647281749098206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_34
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 546
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9144158636c1430800000000000000
+      internalID: 3754985489011317218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_35
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8b6ca6b24defc80800000000000000
+      internalID: -8286952981375043412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_36
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef5f235285f8e40800000000000000
+      internalID: 5660840173420019296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_37
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e271d33248f7dab80800000000000000
+      internalID: -8381903125963008210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_38
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d23dc57dd534ac50800000000000000
+      internalID: 6675519772950344409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_39
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 546
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cdc5f0cb214ac20800000000000000
+      internalID: 3216716632770272292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_40
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7107432c9462edb60800000000000000
+      internalID: 7772692105120739351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_41
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 546
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4859f076f524c5c0800000000000000
+      internalID: -4196187212414887857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_42
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 546
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8928c3b0f3a14aee0800000000000000
+      internalID: -1250845938428378472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_43
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 546
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e982618bd84841120800000000000000
+      internalID: 2383675846999550110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_44
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 546
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa8b6e49b2353a60800000000000000
+      internalID: 7653078913252035237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_45
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 495
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d12ec58f44dfb0800000000000000
+      internalID: -4623983481295089405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_46
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 495
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8cf81720706b5d0800000000000000
+      internalID: -3047240390792984385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_47
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 495
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5077b7a737e124360800000000000000
+      internalID: 7152312639542753029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_48
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 495
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde36cf883c367be0800000000000000
+      internalID: -1479929213916660005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_49
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 495
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b65703498f1d570800000000000000
+      internalID: 8489840087921945492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_50
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 495
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d21e9711b83ac7f0800000000000000
+      internalID: -591598067789196590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_51
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 495
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9797ab3bc23c676a0800000000000000
+      internalID: -6451754819400337031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_52
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 495
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d735dff4bb21c050800000000000000
+      internalID: 5818980249925662675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_53
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 495
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b181207847b2580800000000000000
+      internalID: -8850852519462036650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_54
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 495
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d4f76604dc5ab0800000000000000
+      internalID: -5017902760818583522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_55
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 495
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b2f9d35dd04dd20800000000000000
+      internalID: 3302279636282452874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_56
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 495
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35eab44272679cd0800000000000000
+      internalID: -2551462420963203782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_57
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 495
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40851f4d0d45228b0800000000000000
+      internalID: -5178483365620131836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_58
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 495
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9afffb111f79860800000000000000
+      internalID: 7536757559965755878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_59
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 495
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20f0de9797f29080800000000000000
+      internalID: -9182004459678404561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_60
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 528
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2de1fa599bfc24b0800000000000000
+      internalID: -5463715611832881873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_61
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 495
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d869adb34cc6750800000000000000
+      internalID: 6299625740133895526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_62
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 495
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dd8eab811c20ea0800000000000000
+      internalID: -5907947449197470312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_63
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 495
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32f3b476db3e7670800000000000000
+      internalID: 8538327735808029243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_64
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 495
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8863fae0264d44a0800000000000000
+      internalID: -6607547971087931249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_65
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 115
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61752a803b7d8f6d0800000000000000
+      internalID: -2956375991424755946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_66
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 115
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404bdab5993fccd90800000000000000
+      internalID: -7076013074512235516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_67
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 115
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32d8530b18c637c0800000000000000
+      internalID: -4091863193073692101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_68
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 115
+        width: 126
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7261837a4ce8d0be0800000000000000
+      internalID: -1509393324829043161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_69
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 115
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7fee4848c6985f0800000000000000
+      internalID: -753952146186111034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_70
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 115
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca64652dede8a9a0800000000000000
+      internalID: -6221461282421970240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_71
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 134
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783332b427bb955a0800000000000000
+      internalID: -6531983684962929785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_72
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 115
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5fdbacad3e98940800000000000000
+      internalID: 5299016965421921751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IGDD Maps (12)_73
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 111
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74c3fed8328ac0d0800000000000000
+      internalID: -3401763387754691462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IGDD Maps (12)_0: 4096910240634753060
+      IGDD Maps (12)_1: -1193060878931842454
+      IGDD Maps (12)_10: -6230270001774582662
+      IGDD Maps (12)_11: -6067949430925621039
+      IGDD Maps (12)_12: -3997840245750569558
+      IGDD Maps (12)_13: 5998479587789048238
+      IGDD Maps (12)_14: 3032862514883850472
+      IGDD Maps (12)_15: -720516568326728813
+      IGDD Maps (12)_16: 836928350707218869
+      IGDD Maps (12)_17: -853372103111344080
+      IGDD Maps (12)_18: 1754983309342141105
+      IGDD Maps (12)_19: 8685204556126235449
+      IGDD Maps (12)_2: 6407342701062599338
+      IGDD Maps (12)_20: 7614060517344451077
+      IGDD Maps (12)_21: 2493534585611281822
+      IGDD Maps (12)_22: 6886421054327679471
+      IGDD Maps (12)_23: 7777614624050362770
+      IGDD Maps (12)_24: -1885349742478033531
+      IGDD Maps (12)_25: 6950786379668887459
+      IGDD Maps (12)_26: 8548248593978535006
+      IGDD Maps (12)_27: -9111818060317953851
+      IGDD Maps (12)_28: 4098027096147363715
+      IGDD Maps (12)_29: -7772775799077928905
+      IGDD Maps (12)_3: 6528986971054618971
+      IGDD Maps (12)_30: 115028627779590319
+      IGDD Maps (12)_31: -7525796109312926989
+      IGDD Maps (12)_32: -876710243750033458
+      IGDD Maps (12)_33: 4595647281749098206
+      IGDD Maps (12)_34: 3754985489011317218
+      IGDD Maps (12)_35: -8286952981375043412
+      IGDD Maps (12)_36: 5660840173420019296
+      IGDD Maps (12)_37: -8381903125963008210
+      IGDD Maps (12)_38: 6675519772950344409
+      IGDD Maps (12)_39: 3216716632770272292
+      IGDD Maps (12)_4: 9007685560595345004
+      IGDD Maps (12)_40: 7772692105120739351
+      IGDD Maps (12)_41: -4196187212414887857
+      IGDD Maps (12)_42: -1250845938428378472
+      IGDD Maps (12)_43: 2383675846999550110
+      IGDD Maps (12)_44: 7653078913252035237
+      IGDD Maps (12)_45: -4623983481295089405
+      IGDD Maps (12)_46: -3047240390792984385
+      IGDD Maps (12)_47: 7152312639542753029
+      IGDD Maps (12)_48: -1479929213916660005
+      IGDD Maps (12)_49: 8489840087921945492
+      IGDD Maps (12)_5: -6196721558410135544
+      IGDD Maps (12)_50: -591598067789196590
+      IGDD Maps (12)_51: -6451754819400337031
+      IGDD Maps (12)_52: 5818980249925662675
+      IGDD Maps (12)_53: -8850852519462036650
+      IGDD Maps (12)_54: -5017902760818583522
+      IGDD Maps (12)_55: 3302279636282452874
+      IGDD Maps (12)_56: -2551462420963203782
+      IGDD Maps (12)_57: -5178483365620131836
+      IGDD Maps (12)_58: 7536757559965755878
+      IGDD Maps (12)_59: -9182004459678404561
+      IGDD Maps (12)_6: -505867343083467398
+      IGDD Maps (12)_60: -5463715611832881873
+      IGDD Maps (12)_61: 6299625740133895526
+      IGDD Maps (12)_62: -5907947449197470312
+      IGDD Maps (12)_63: 8538327735808029243
+      IGDD Maps (12)_64: -6607547971087931249
+      IGDD Maps (12)_65: -2956375991424755946
+      IGDD Maps (12)_66: -7076013074512235516
+      IGDD Maps (12)_67: -4091863193073692101
+      IGDD Maps (12)_68: -1509393324829043161
+      IGDD Maps (12)_69: -753952146186111034
+      IGDD Maps (12)_7: 6599633523201532866
+      IGDD Maps (12)_70: -6221461282421970240
+      IGDD Maps (12)_71: -6531983684962929785
+      IGDD Maps (12)_72: 5299016965421921751
+      IGDD Maps (12)_73: -3401763387754691462
+      IGDD Maps (12)_8: -7417914524156065846
+      IGDD Maps (12)_9: -6316809100568155290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
